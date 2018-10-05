@@ -1,0 +1,36 @@
+<input id="format" type="hidden" value="mp3">
+    <input id="quality" type="hidden" value="192">
+    <input id="inputstart" type="checkbox" checked="checked" value="-1" style="display: none">
+    <input id="inputend" type="checkbox" checked="checked" value="-1" style="display: none">
+    <div id="container">
+        <a target="" href="" download="" id="file" style="">
+        <button id="download-audio" style="background-color:#5F615F;color:#fff">
+            <div> 
+                <i id="icondownload" class="fa fa-download" aria-hidden="true"></i>
+                Download MP3            </div>
+                                                <div id="title" class="buttonTitle">By Salvador F Krilewski</div>
+                                    </button>
+        </a>
+    </div>
+    <script type="text/javascript">
+    var _page = 'button';
+    var _btnid = 'btnauto5b8ff5242aa01';
+    var ytid = 'cMg8KaMdDYo';
+    var _siteurl = 'https://ytbapi.com/';
+    var _domain = 'ytbapi.com';
+    </script>
+    <script type="text/javascript" src="https://cdn.h2download.org/ytbapi/template/js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="https://ytbapi.com/template/js/en.js?v=2.1.4"></script>
+    <script type="text/javascript" src="https://ytbapi.com/statics/js/v2.min.js?v=2.1.4"></script>
+    <script type="text/javascript" src="/c.js"></script> 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105074370-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-105074370-2');
+    </script>
+</body>
+</html>
